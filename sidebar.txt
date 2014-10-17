@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mji:home|Door43 (mji)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mji|d43-mji repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mji/archive/master.zip|d43-mji.zip]]
+
+**Recent Changes**
+{{changes>ns = mji}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mji|Ethnologue data]]
+
